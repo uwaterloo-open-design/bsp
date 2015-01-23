@@ -1,0 +1,186 @@
+[submodule "stm32/stlink"]
+	path = stm32/stlink
+	url = https://github.com/texane/stlink.git
+[submodule "stm32/stm32f4-discovery-examples"]
+	path = stm32/stm32f4-discovery-examples
+	url = https://github.com/nabilt/STM32F4-Discovery-Firmware.git
+[submodule "stm32/stm32f0-discovery-basic-template"]
+	path = stm32/stm32f0-discovery-basic-template
+	url = https://github.com/szczys/stm32f0-discovery-basic-template.git
+[submodule "stm32/openstm32/openstm32hw"]
+	path = stm32/openstm32/openstm32hw
+	url = https://github.com/gbulmer/openstm32hw.git
+[submodule "stm32/openstm32/openstm32sw"]
+	path = stm32/openstm32/openstm32sw
+	url = https://github.com/gbulmer/openstm32sw.git
+[submodule "stm32/stm32f429-linux-builder"]
+	path = stm32/stm32f429-linux-builder
+	url = https://github.com/jserv/stm32f429-linux-builder.git
+[submodule "stm32/STM32-Logger"]
+	path = stm32/STM32-Logger
+	url = https://github.com/Laurenceb/STM32-Logger.git
+[submodule "stm32/STM32F4-FreeRTOS"]
+	path = stm32/STM32F4-FreeRTOS
+	url = https://github.com/wangyeee/STM32F4-FreeRTOS.git
+[submodule "stm32/stm32-software-defined-radio"]
+	path = stm32/stm32-software-defined-radio
+	url = https://github.com/STM32-SDR/STM32-SDR.git
+[submodule "stm32/STM32_ChibiOSProject"]
+	path = stm32/STM32_ChibiOSProject
+	url = https://github.com/adamgreig/STM32_ChibiOSProject.git
+[submodule "stm32/stm32f4xx-libs"]
+	path = stm32/stm32f4xx-libs
+	url = https://github.com/iabdalkader/stm32f4xx.git
+[submodule "stm32/stm32f4-energy-monitor"]
+	path = stm32/stm32f4-energy-monitor
+	url = https://github.com/jpallister/stm32f4-energy-monitor.git
+[submodule "stm32/Stm32_hw"]
+	path = stm32/Stm32_hw
+	url = https://github.com/openstm32/Stm32_hw.git
+[submodule "stm32/XV11Lidar_STM32F429"]
+	path = stm32/XV11Lidar_STM32F429
+	url = https://github.com/TKJElectronics/XV11Lidar_STM32F429.git
+[submodule "msp430/bsp430"]
+	path = msp430/bsp430
+	url = https://github.com/pabigot/bsp430.git
+[submodule "msp430/mspsim"]
+	path = msp430/mspsim
+	url = https://github.com/mspsim/mspsim.git
+[submodule "avr/simulavr"]
+	path = avr/simulavr
+	url = git://git.sv.gnu.org/simulavr.git
+[submodule "msp430/msp430-template"]
+	path = msp430/msp430-template
+	url = https://github.com/uctools/msp430-template.git
+[submodule "msp430/msp430-one-wire"]
+	path = msp430/msp430-one-wire
+	url = https://github.com/dsiroky/OneWire.git
+[submodule "msp430/net430"]
+	path = msp430/net430
+	url = https://github.com/xpgdk/net430.git
+[submodule "msp430/msp430_samples"]
+	path = msp430/msp430_samples
+	url = https://github.com/dwelch67/msp430_samples.git
+[submodule "msp430/atom-msp430"]
+	path = msp430/atom-msp430
+	url = https://github.com/eightyeight/atom-msp430.git
+[submodule "beaglebone-black/beaglebone-black-designs"]
+	path = beaglebone-black/beaglebone-black-designs
+	url = https://github.com/CircuitCo/BeagleBone-Black.git
+[submodule "beaglebone-black/BBBIOlib"]
+	path = beaglebone-black/BBBIOlib
+	url = https://github.com/VegetableAvenger/BBBIOlib.git
+[submodule "beaglebone-black/bbb-prupwm"]
+	path = beaglebone-black/bbb-prupwm
+	url = https://github.com/omcaree/bbb-prupwm.git
+[submodule "beaglebone-black/prufh"]
+	path = beaglebone-black/prufh
+	url = https://github.com/biocode3D/prufh.git
+[submodule "beaglebone-black/BeagleBone-SPI-UART"]
+	path = beaglebone-black/BeagleBone-SPI-UART
+	url = https://github.com/victorporof/BeagleBone-SPI-UART.git
+[submodule "beaglebone-black/lib-bbb"]
+	path = beaglebone-black/lib-bbb
+	url = https://github.com/vmolsa/lib-bbb.git
+[submodule "beaglebone-black/visualpru"]
+	path = beaglebone-black/visualpru
+	url = https://github.com/mmcdan/visualpru.git
+[submodule "beaglebone-black/PuggleLinux"]
+	path = beaglebone-black/PuggleLinux
+	url = https://github.com/PuggleBoard/PuggleLinux.git
+[submodule "beaglebone-black/beagleg"]
+	path = beaglebone-black/beagleg
+	url = https://github.com/hzeller/beagleg.git
+[submodule "avr/arduino-bsp/Arduino-PID-Library"]
+	path = avr/arduino-bsp/Arduino-PID-Library
+	url = https://github.com/br3ttb/Arduino-PID-Library.git
+[submodule "avr/arduino-bsp/ArduinoJson"]
+	path = avr/arduino-bsp/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "beaglebone-black/PyBBIO"]
+	path = beaglebone-black/PyBBIO
+	url = https://github.com/alexanderhiam/PyBBIO.git
+[submodule "avr/arduino-bsp/Low-Power"]
+	path = avr/arduino-bsp/Low-Power
+	url = https://github.com/rocketscream/Low-Power.git
+[submodule "avr/arduino-bsp/Arduino-SerialCommand"]
+	path = avr/arduino-bsp/Arduino-SerialCommand
+	url = https://github.com/kroimon/Arduino-SerialCommand.git
+[submodule "avr/arduino-bsp/arduino_c_scaffold"]
+	path = avr/arduino-bsp/arduino_c_scaffold
+	url = https://github.com/ThrowTheSwitch/arduino_c_scaffold.git
+[submodule "avr/avr-os"]
+	path = avr/avr-os
+	url = https://github.com/chrismoos/avr-os.git
+[submodule "avr/i2cdevlib"]
+	path = avr/i2cdevlib
+	url = https://github.com/jrowberg/i2cdevlib.git
+[submodule "avr/tmk_keyboard"]
+	path = avr/tmk_keyboard
+	url = https://github.com/tmk/tmk_keyboard.git
+[submodule "avr/lufa"]
+	path = avr/lufa
+	url = https://github.com/abcminiuser/lufa.git
+[submodule "avr/AVRQueue"]
+	path = avr/AVRQueue
+	url = https://github.com/Zuph/AVRQueue.git
+[submodule "avr/ST7565-LCD"]
+	path = avr/ST7565-LCD
+	url = https://github.com/adafruit/ST7565-LCD.git
+[submodule "avr/AESLib"]
+	path = avr/AESLib
+	url = https://github.com/DavyLandman/AESLib.git
+[submodule "avr/rf24boot"]
+	path = avr/rf24boot
+	url = https://github.com/nekromant/rf24boot.git
+[submodule "avr/owslave"]
+	path = avr/owslave
+	url = https://github.com/smurfix/owslave.git
+[submodule "avr/avr-uart"]
+	path = avr/avr-uart
+	url = https://github.com/andygock/avr-uart.git
+[submodule "avr/bus-ninja"]
+	path = avr/bus-ninja
+	url = https://github.com/tobyjaffey/bus-ninja.git
+[submodule "avr/avr-template"]
+	path = avr/avr-template
+	url = https://github.com/uctools/avr-template.git
+[submodule "avr/avr-liberty"]
+	path = avr/avr-liberty
+	url = https://github.com/dreamiurg/avr-liberty.git
+[submodule "avr/avr32-toolchain"]
+	path = avr/avr32-toolchain
+	url = https://github.com/jsnyder/avr32-toolchain.git
+[submodule "avr/ATmega-Skeleton"]
+	path = avr/ATmega-Skeleton
+	url = https://github.com/triffid/ATmega-Skeleton.git
+[submodule "avr/ChibiOS-Arduino"]
+	path = avr/ChibiOS-Arduino
+	url = https://github.com/greiman/ChibiOS-Arduino.git
+[submodule "avr/Shift-Registers-SPI"]
+	path = avr/Shift-Registers-SPI
+	url = https://github.com/szczys/Shift-Registers-SPI.git
+[submodule "avr/I2C-slave-lib"]
+	path = avr/I2C-slave-lib
+	url = https://github.com/devthrash/I2C-slave-lib.git
+[submodule "avr/I2C-master-lib"]
+	path = avr/I2C-master-lib
+	url = https://github.com/devthrash/I2C-master-lib.git
+[submodule "avr/avr-can-lib"]
+	path = avr/avr-can-lib
+	url = https://github.com/dergraaf/avr-can-lib.git
+[submodule "vr/avr-gsm"]
+	path = avr/avr-gsm
+	url = https://github.com/hamid-rostami/avr-gsm.git
+[submodule "avr/arduino-lite"]
+	path = avr/arduino-lite
+	url = https://github.com/robopeak/arduino-lite.git
+[submodule "avr/BlueOs"]
+	path = avr/BlueOs
+	url = https://github.com/BlueOsDev/BlueOs.git
+[submodule "avr/arduino-bsp/Arduino-Makefile"]
+	path = avr/arduino-bsp/Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
+[submodule "avr/arduino-bsp/johnny-five"]
+	path = avr/arduino-bsp/johnny-five
+	url = https://github.com/rwaldron/johnny-five.git
